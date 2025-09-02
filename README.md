@@ -42,13 +42,16 @@ Sample IoT Telemetry (JSON):
 
 ```json
 {
-  "DeviceId": "meter-001",
-  "Timestamp": "2025-09-01T10:15:00Z",
-  "UsageKWh": 5.6,
-  "Voltage": 230.5,
-  "Current": 12.4,
-  "Location": {
-    "City": "Bangalore",
-    "Region": "KA"
-  }
+    "_eventcreationtime": "2025-09-02T19:24:28.531Z",
+    "UsageKWh": 25.46706175993402,
+    "Voltage": 49.605655408657434,
+    "Current": 17.52648988380854,
+    "Location": {
+        "alt": 522.9712,
+        "lat": 38.187,
+        "lon": -85.853
+    },
+    "Timestamp": 57.701728868271154,
+    "_eventtype": "Telemetry",
+    "_timestamp": "2025-09-02T19:24:28.644Z"
 }
