@@ -13,7 +13,7 @@ It demonstrates how to ingest, process, transform, and analyze IoT telemetry dat
 🔹 Bronze → Silver → Gold Lakehouse Architecture  
 🔹 ML Forecasting (LightGBM) → Azure Synapse + Power BI for analytics  
 
-![Azure Lakehouse Architecture](./Images/architecture.png)
+![Azure Lakehouse Architecture](./Images/Flujo de Datos IoT Smart Meter.png)
 
 
 ---
